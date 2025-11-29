@@ -1,4 +1,4 @@
-﻿UI_20150317_000001	{@st41b}Learn Attributes{nl}from respective masters of each class.{/}	{@st41b}각 클래스 마스터들에게서{nl}특성을 배울 수 있습니다.{/}				
+﻿UI_20150317_000001	{@st41b}Aprenda Atributos{nl}dos respectivos mestres de cada classe.{/}	{@st41b}각 클래스 마스터들에게서{nl}특성을 배울 수 있습니다.{/}				
 UI_20150317_000002	{@st43}Lista de Atributos {/}	{@st43}특성 목록{/}				
 UI_20150317_000003	{@st59}Fechar{/}	{@st59}특성리스트를 닫습니다{/}				
 UI_20150317_000004	{@st43}Aprender Atributos{/}	{@st43}특성 배우기{/}				
@@ -40,7 +40,7 @@ UI_20150317_000039	{@st49}Excluir	{@st49}삭제
 UI_20150317_000040	{@st44}Salvar{/}	{@st44}저장{/}				
 UI_20150317_000041	{@st44}Cancelar{/}	{@st44}취소{/}				
 UI_20150317_000042	{@st43}{s22}Loja de Cabelo{/}	{@st43}{s22}미용실{/}				
-UI_20150317_000043	{@st59}Penteado Anterior{/}	{@st59}이전 머리{/}				
+UI_20150317_000043	{@st59}Penteado anterior{/}	{@st59}이전 머리{/}				
 UI_20150317_000044	{@st59}Próximo penteado{/}	{@st59}다음 머리{/}				
 UI_20150317_000045	{@st41b} Mudar {s18} (requer 100 TPs) {/}	{@st41b}변경{s18}(NXP 100 필요){/}				
 UI_20150317_000046	{@st59}Mudar para penteado selecionado.{/}	{@st59}선택한 헤어로 변경합니다.{/}				
@@ -72,7 +72,7 @@ UI_20150317_000071	{@st59}Vendedora Automática de Bônus{nl} - Você gasta Silv
 UI_20150317_000072	Menu de Transporte	마차메뉴				
 UI_20150317_000073	{ol}{s22}Desembarcar{/}	{ol}{s22}내리기{/}				
 UI_20150317_000074	Invocar	캐스팅				
-UI_20150317_000075	{@st43}Game Settings{/}	{@st43}게임설정{/}				
+UI_20150317_000075	{@st43}Configurações do jogo{/}	{@st43}게임설정{/}				
 UI_20150317_000076	{@st64}Use as setas para selecionar a área!	{@st64}방향키를 입력해 셀을 선택하세요!				
 UI_20150317_000077	{@st43}Informação de Avanço {/}	{@st43}전직 정보{/}				
 UI_20150317_000078	{@st43}Escolha a Classe	{@st43}클래스 선택				
@@ -146,7 +146,7 @@ UI_20150317_000145	{@st41b}Preço %s{/}	{@st41b}가격     %s{/}
 UI_20150317_000146	{@st59}Fechar{/}	{@st59}컴패니엄 분양 창을 닫습니다{/}				
 UI_20150317_000147	{@st41b}Adotar	{@st41b}분양				
 UI_20150317_000148	{@st59}Confirmar{/}	{@st59}분양 받을 컴패니언을 결정합니다{/}				
-UI_20150317_000149	{@st43}Companion Shop	{@st43}컴패니언 샵				
+UI_20150317_000149	{@st43}Loja de companheiro	{@st43}컴패니언 샵				
 UI_20150317_000150	{@st59}Fechar{/}	{@st59}컴패니언 상점을 닫습니다{/}				
 UI_20150317_000151	{@st43}Outras Info. de Personagem{/}{@st42}	{@st43}다른 캐릭터 정보{/} {@st42}				
 UI_20150317_000152	{@st59}Fechar{/}	{@st59}캐릭터 정보를 닫습니다{/}				
@@ -4066,57 +4066,57 @@ UI_20191024_004065	{@st42b}{s14}{#ffa800}Lendário	{@st42b}{s14}{#ffa800}레전�
 UI_20191104_004066	Trocas Pessoais Ilimitadas	개인 거래 무제한				
 UI_20200129_004067	{@st42}%s {@st42}Item{/}	{@st42}%s {@st42}아이템{/}				
 UI_20200129_004068	Storage	기본 창고				
-UI_20200129_004069	{@st66b}Storage Expansion	{@st66b}기본 창고 확장				
-UI_20200129_004070	{@st59}Expands Basic Storage{/}	{@st59}기본 창고를 확장합니다{/}				
-UI_20200129_004071	Select items to combine	합성할 아이템을 올려주세요				
-UI_20200129_004072	Experience Up	경험치 증가				
-UI_20200129_004073	Level Up	레벨 증가				
-UI_20200129_004074	{@st43}{s22}Combine Ark	{@st43}{s22}아크 합성				
-UI_20200129_004075	{@st59b}Combine Ark{@st59s}{nl}- Select Ark to add EXP or Level	{@st59b}아크 합성{@st59s}{nl}- 경험치 증가 또는 레벨 증가 할 아크를 등록				
+UI_20200129_004069	{@st66b}Expansão de armazenamento	{@st66b}기본 창고 확장				
+UI_20200129_004070	{@st59}Expansão de armazenamento básico{/}	{@st59}기본 창고를 확장합니다{/}				
+UI_20200129_004071	Selecione os itens para combinar	합성할 아이템을 올려주세요				
+UI_20200129_004072	Experiência recebida	경험치 증가				
+UI_20200129_004073	Subir de nível	레벨 증가				
+UI_20200129_004074	{@st43}{s22}Combinar Ark	{@st43}{s22}아크 합성				
+UI_20200129_004075	{@st59b}Combinar Ark{@st59s}{nl}- Selecione o Ark para adicionar EXP ou Nível	{@st59b}아크 합성{@st59s}{nl}- 경험치 증가 또는 레벨 증가 할 아크를 등록				
 UI_20200129_004076	{@st43}{s20}Combine	{@st43}{s20}합성				
-UI_20200129_004077	{img icon_item_silver 24 24} {@st41b}%s Cost{/}	{img icon_item_silver 24 24} {@st41b}%s 비용{/}				
-UI_20200129_004078	{img icon_item_silver 24 24} {@st41b}Estimated Balance{/}	{img icon_item_silver 24 24} {@st41b}예상 잔액{/}				
-UI_20200129_004079	Place an Ark to transfer.	이전할 아이템을 올려주세요				
-UI_20200129_004080	{@st59b}Ark Transfer@st59s}{nl}- Place an Ark to transfer{nl} - Place an Ark to receive	{@st59b}아크 이전{@st59s}{nl}- 이전 할 아크 등록 {nl} - 이전 받을 아크 등록				
-UI_20200129_004081	Transfer	이전				
-UI_20200129_004082	Place an item to transfer the stats.	옵션을 이전할 아이템을 올려주세요				
-UI_20200129_004083	{img icon_item_silver 24 24} {@st41b}Transfer Cost{/}%s	{img icon_item_silver 24 24} {@st41b}이전 비용{/}%s				
-UI_20200129_004084	{@st43}Barber Shop - Skin	{@st43}바버샵 - 스킨				
+UI_20200129_004077	{img icon_item_silver 24 24} {@st41b}%s Custo{/}	{img icon_item_silver 24 24} {@st41b}%s 비용{/}				
+UI_20200129_004078	{img icon_item_silver 24 24} {@st41b}Balanço estimado{/}	{img icon_item_silver 24 24} {@st41b}예상 잔액{/}				
+UI_20200129_004079	Posicione um Ark para transferir.	이전할 아이템을 올려주세요				
+UI_20200129_004080	{@st59b}Transferência de Ark@st59s}{nl}- Posicione um Ark para transferir{nl} - Posicione um Ark para receber	{@st59b}아크 이전{@st59s}{nl}- 이전 할 아크 등록 {nl} - 이전 받을 아크 등록				
+UI_20200129_004081	Transferir	이전				
+UI_20200129_004082	Posicione um item para transferir os status.	옵션을 이전할 아이템을 올려주세요				
+UI_20200129_004083	{img icon_item_silver 24 24} {@st41b}Custo de transferência{/}%s	{img icon_item_silver 24 24} {@st41b}이전 비용{/}%s				
+UI_20200129_004084	{@st43}Barbearia - Skin	{@st43}바버샵 - 스킨				
 UI_20200129_004085	{@st59}Skin{/}	{@st59}스킨{/}				
-UI_20200129_004086	{@st66}- Skin Coupons	{@st66}-스킨 쿠폰				
-UI_20200129_004087	{@st43}{s22}Goddess' Blessing	{@st43}{s22}여신의 축복				
-UI_20200129_004088	{@st43}{s20}Confirm	{@st43}{s20}확인				
-UI_20200129_004089	The maximum amount of points that can be earned is reset every Monday at 06:00, server time.{nl}Points can be earned as follows:{nl} {nl}- Connect to game: 10 points (5 additional points for players in a guild and players under Token effects){nl} - Successful fishing: 1 point per catch{nl} - Legend Raid: 20 points{nl} (Except for Earth Tower, where 5 points are earned every 5 levels){nl}- Uphill Defense Mission: 10 points{nl}- Unique Raid: 20 points{nl}- Level Dungeon: 10 points{nl}- Daily Quest: 10 points	획득 가능한 포인트량은 매주 월요일 6시에 초기화됩니다.{nl}포인트는 아래의 방법으로 획득할 수 있습니다.{nl} {nl}- 접속: 10 포인트 (PC방 접속 중, 길드 가입 중, 토큰 적용 중일 시 각 5 포인트 추가 획득){nl}- 낚시 성공: 1회 당 1 포인트{nl}- 레전드 레이드: 20 포인트{nl}  (단, 대지의 탑은 5층 단위로 5점씩 지급됩니다.){nl}- 업힐 디펜스 미션: 10 포인트{nl}- 유니크 레이드: 20 포인트{nl}- 레벨 던전: 10 포인트{nl}- 일일 퀘스트: 10 포인트	UI_20190104_003600	A quantidade máxima de pontos possíveis de se obter reiniciam toda Segunda às 6AM (Servidor).{nl}Pontos podem ser obtidos através de:{nl} {nl}- Conectar no jogo: 10 pontos (5 adicionais para membros de Guilda e sobre efeitos de Token){nl} - Pescaria: 1 ponto por item pescado{nl}- Missão de Saalus: 15 pontos{nl}- Invasão Lendária: 20 points{nl} (Exceto Torre da Terra, onde são 5 pontos a cada 5 andares){nl}- Missão de Uphill Defense: 10 pontos{nl}- Invasão Única: 20 pontos{nl}- Dungeon Simples: 10 pontos{nl}- Missão Mercenary Post: 10 pontos{nl}- Missão Diária: 10 pontos	획득 가능한 포인트량은 매주 월요일 6시에 초기화됩니다.{nl}포인트는 아래의 방법으로 획득할 수 있습니다.{nl} {nl}- 접속: 10 포인트 (PC방 접속 중, 길드 가입 중, 토큰 적용 중일 시 각 5 포인트 추가 획득){nl}- 낚시 성공: 1회 당 1 포인트{nl}- 살러스 수녀원 미션: 15 포인트{nl}- 레전드 레이드: 20 포인트{nl}  (단, 대지의 탑은 5층 단위로 5점씩 지급됩니다.){nl}- 업힐 디펜스 미션: 10 포인트{nl}- 유니크 레이드: 20 포인트{nl}- 레벨 던전: 10 포인트{nl}- 의뢰소 미션: 10 포인트{nl}- 일일 퀘스트: 10 포인트	
-UI_20200129_004090	{s18}Contents	{s18}내용				
-UI_20200129_004091	{@st66}Foods are only offered to the host and host’s party members.	{@st66}배식 테이블의 음식은 기본적으로 나와 나의 파티원에게 제공됩니다.				
+UI_20200129_004086	{@st66}- Cupons de Skin	{@st66}-스킨 쿠폰				
+UI_20200129_004087	{@st43}{s22} Bênção da deusa {@st43}{s22}여신의 축복				
+UI_20200129_004088	{@st43}{s20}Confirmar	{@st43}{s20}확인				
+UI_20200129_004089	The maximum amount of points that can be earned is reset every Monday at 06:00, server time.{nl}Points can be earned as follows:{nl} {nl}- Connect to game: 10 points (5 additional points for players in a guild and players under Token effects){nl} - Successful fishing: 1 point per catch{nl} - Legend Raid: 20 points{nl} (Except for Earth Tower, where 5 points are earned every 5 levels){nl}- Uphill Defense Mission: 10 points{nl}- Unique Raid: 20 points{nl}- Level Dungeon: 10 points{nl}- Daily Quest: 10 points	획득 가능한 포인트량은 매주 월요일 6시에 초기화됩니다.{nl}포인트는 아래의 방법으로 획득할 수 있습니다.{nl} {nl}- 접속: 10 포인트 (PC방 접속 중, 길드 가입 중, 토큰 적용 중일 시 각 5 포인트 추가 획득){nl}- 낚시 성공: 1회 당 1 포인트{nl}- 레전드 레이드: 20 포인트{nl}  (단, 대지의 탑은 5층 단위로 5점씩 지급됩니다.){nl}- 업힐 디펜스 미션: 10 포인트{nl}- 유니크 레이드: 20 포인트{nl}- 레벨 던전: 10 포인트{nl}- 일일 퀘스트: 10 포인트	UI_20190104_003600	A quantidade máxima de pontos possíveis de se obter reiniciam toda Segunda às 6AM (Servidor).{nl}Pontos podem ser obtidos através de:{nl} {nl}- Conectar no jogo: 10 pontos (5 adicionais para membros de Guilda e sob efeitos de Token){nl} - Pescaria: 1 ponto por item pescado{nl}- Missão de Saalus: 15 pontos{nl}- Invasão Lendária: 20 points{nl} (Exceto Torre da Terra, onde são 5 pontos a cada 5 andares){nl}- Missão de Uphill Defense: 10 pontos{nl}- Invasão Única: 20 pontos{nl}- Dungeon Simples: 10 pontos{nl}- Missão Mercenary Post: 10 pontos{nl}- Missão Diária: 10 pontos	획득 가능한 포인트량은 매주 월요일 6시에 초기화됩니다.{nl}포인트는 아래의 방법으로 획득할 수 있습니다.{nl} {nl}- 접속: 10 포인트 (PC방 접속 중, 길드 가입 중, 토큰 적용 중일 시 각 5 포인트 추가 획득){nl}- 낚시 성공: 1회 당 1 포인트{nl}- 살러스 수녀원 미션: 15 포인트{nl}- 레전드 레이드: 20 포인트{nl}  (단, 대지의 탑은 5층 단위로 5점씩 지급됩니다.){nl}- 업힐 디펜스 미션: 10 포인트{nl}- 유니크 레이드: 20 포인트{nl}- 레벨 던전: 10 포인트{nl}- 의뢰소 미션: 10 포인트{nl}- 일일 퀘스트: 10 포인트	
+UI_20200129_004090	{s18}Conteúdos	{s18}내용				
+UI_20200129_004091	{@st66}Foods are only offered to the host and host’s party members.	{@st66}배식 테이블의 음식은 기본적으로 나와 나의 파티원에게 제공됩니다.				UI_20200129_004091	{@st66}Refeições são oferecidas somente ao host e aos membros do grupo do host.	{@st66}배식 테이블의 음식은 기본적으로 나와 나의 파티원에게 제공됩니다.				
 UI_20200129_004092	{@s18}Hangout Level{/}	{@s18}아지트 레벨{/}				
-UI_20200129_004093	{@st41}Preview	{@st41}미리보기				
+UI_20200129_004093	{@st41}Previsão	{@st41}미리보기				
 UI_20200129_004094	{@st43}%s F{/}	{@st43}%s층{/}				
-UI_20200129_004095	{@st43}Function{/}	{@st43}기능{/}				
-UI_20200129_004096	{@st41}Exit Edit Mode{/}	{@st41}편집모드 취소{/}				
-UI_20200129_004097	{@st41}Up/downstairs{/}	{@st41}위층, 아래층 이동{/}				
-UI_20200129_004098	{@st42b}Dismantle All{/}	{@st42b}모두 철거하기{/}				
-UI_20200129_004099	{@st42b}See Background{/}	{@st42b}배경 변경{/}				
-UI_20200129_004100	{@st42b}Open Page{/}	{@st42b}페이지 열기{/}				
-UI_20200129_004101	{@43b}{s22}See Background{/}{/}	{@43b}{s22}배경 변경{/}{/}				
-UI_20200129_004102	{@43b}{s22}Page{/}{/}	{@43b}{s22}페이지{/}{/}				
-UI_20200129_004103	{@43b}{s22}Load Page{/}{/}	{@43b}{s22}페이지 불러오기{/}{/}				
-UI_20200129_004104	{@st66b}{s18}The housing item does not exist.{nl}{nl}Cannot load the page.	{@st66b}{s18}다음의 하우징 물품이 존재하지 않아{nl}{nl}페이지를 불러올 수 없습니다.				
-UI_20200129_004105	{@st66b}{s18}List	{@st66b}{s18}목록				
-UI_20200129_004106	{@st66b}{s18}Please check if there are housing items{nl}{nl}placed or stored in the following places.{nl}{nl}1. Housing item area{nl}{nl}2. Inventory	{@st66b}{s18}다음의 경로에 하우징 물품이 배치되어 있거나,{nl}{nl}존재하는지 확인해 주세요.{nl}{nl}1. 하우징 배치 구역{nl}{nl}2. 인벤토리				
-UI_20200129_004107	{@st66b}{s18}The following housing items will be dismantled when loading the page.	{@st66b}{s18}페이지를 불러올 경우, 현재 배치된 하우징 물품 중 다음의 물품들이 철거됩니다.				
-UI_20200129_004108	{@st66b}{s18}Proceed with teardown and load the page?	{@st66b}{s18}철거를 진행하고 페이지를 불러오시겠습니까?				
-UI_20200129_004109	{@st43}Preview Controls{/}	{@st43}미리보기 조작키{/}				
-UI_20200129_004110	{@st41}Leave{/}	{@st41}나가기{/}				
-UI_20200129_004111	{@st41}Move Screen{/}	{@st41}화면 이동{/}				
-UI_20200129_004112	{@st41}View Height{/}	{@st41}상하 이동{/}				
-UI_20200129_004113	Available only in Instanced Dungeon.	인던에만 사용 가능합니다.	UI_20170313_002550	Só pode ser usado em dungeons instanciadas e missões mercenárias.	인던과 의뢰소 미션에만 사용 가능합니다.	
+UI_20200129_004095	{@st43}Função{/}	{@st43}기능{/}				
+UI_20200129_004096	{@st41}Sair do modo de edição{/}	{@st41}편집모드 취소{/}				
+UI_20200129_004097	{@st41}Subir/Descer as escadas{/}	{@st41}위층, 아래층 이동{/}				
+UI_20200129_004098	{@st42b}Desmontar tudo{/}	{@st42b}모두 철거하기{/}				
+UI_20200129_004099	{@st42b}Ver plano de fundo{/}	{@st42b}배경 변경{/}				
+UI_20200129_004100	{@st42b}Abrir página{/}	{@st42b}페이지 열기{/}				
+UI_20200129_004101	{@43b}{s22}Ver plano de fundo{/}{/}	{@43b}{s22}배경 변경{/}{/}				
+UI_20200129_004102	{@43b}{s22}Página{/}{/}	{@43b}{s22}페이지{/}{/}				
+UI_20200129_004103	{@43b}{s22}Carregar página{/}{/}	{@43b}{s22}페이지 불러오기{/}{/}				
+UI_20200129_004104	{@st66b}{s18}O item de habitação não existe.{nl}{nl}Página não pode ser carregada.	{@st66b}{s18}다음의 하우징 물품이 존재하지 않아{nl}{nl}페이지를 불러올 수 없습니다.				
+UI_20200129_004105	{@st66b}{s18}Lista	{@st66b}{s18}목록				
+UI_20200129_004106	{@st66b}{s18}Favor checar se existem itens de habitação{nl}{nl}posicionados ou guardados nos seguintes locais.{nl}{nl}1. Área de item de habitação{nl}{nl}2. Inventário	{@st66b}{s18}다음의 경로에 하우징 물품이 배치되어 있거나,{nl}{nl}존재하는지 확인해 주세요.{nl}{nl}1. 하우징 배치 구역{nl}{nl}2. 인벤토리
+UI_20200129_004107	{@st66b}{s18}Os seguintes artigos de habitação serão desmontados ao carregar a página.	{@st66b}{s18}페이지를 불러올 경우, 현재 배치된 하우징 물품 중 다음의 물품들이 철거됩니다.				
+UI_20200129_004108	{@st66b}{s18}Prosseguir com a desmontagem e carregar a página?	{@st66b}{s18}철거를 진행하고 페이지를 불러오시겠습니까?				
+UI_20200129_004109	{@st43}Previsão dos controles{/}	{@st43}미리보기 조작키{/}				
+UI_20200129_004110	{@st41}Sair{/}	{@st41}나가기{/}				
+UI_20200129_004111	{@st41}Mover a tela{/}	{@st41}화면 이동{/}				
+UI_20200129_004112	{@st41}Visualizar distâncias{/}	{@st41}상하 이동{/}				
+UI_20200129_004113	Habilitado somente em dungeons instanciadas.	인던에만 사용 가능합니다.	UI_20170313_002550	Só pode ser usado em dungeons instanciadas e missões mercenárias.	인던과 의뢰소 미션에만 사용 가능합니다.	
 UI_20200129_004114	* Additional damage buff granted on a group with 4 or less saviors.{nl}* 50% increase in damage per savior and 200% increase for solo entry.{/}	* 5인 미만인 경우 추가 대미지 버프가 제공됩니다.{nl}* 5인 미만인 경우 1명당 50%씩 증가하여, 1인으로 진행하는 경우 대미지가 200%증가합니다.				
 UI_20200129_004115	{@st59}Ark{/}	{@st59}아크{/}				
 UI_20200129_004116	Equipment	기본 획득				
 UI_20200129_004117	Transcendence Bonus	초월 장비 보너스				
 UI_20200129_004118	Total	총 획득				
-UI_20200129_004119	Enchant	인챈트				
+UI_20200129_004119	Enchant	인챈트			
 UI_20200129_004120	{@st43}Item %s Transfer	{@st43}아이템 %s 이전				
 UI_20200129_004121	{@st41b}{s18}%s Transfer	{@st41b}{s18}%s 이전				
 UI_20200129_004122	{@st43b}{s18}Transfer Stats	{@st43b}{s18}이전 옵션				
